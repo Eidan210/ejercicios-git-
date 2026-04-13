@@ -1,3 +1,5 @@
+#se realiza pull desde git con el comando git pull origin (nombre de la rama)
+
 tareas = []
 while True:
     print ("""
